@@ -45,7 +45,7 @@ export default App;
 **React Element**
 1. Định nghĩa:
 - React Element là khối xây dựng cơ bản của React ứng dụng.
-- Nó mô tả những gì bạn muốn thấy trên giao diện người dùng: một thẻ HTML (như <div>, <span>), hoặc một thành phần React.
+- Nó mô tả những gì bạn muốn thấy trên giao diện người dùng: một thẻ HTML hoặc một thành phần React.
 2. Đặc điểm:
 - React Element là một đối tượng không thể thay đổi (immutable).
 - Khi một React Element được tạo ra, bạn không thể thay đổi các thuộc tính của nó. Điều này giúp đảm bảo rằng giao diện người dùng có thể dự đoán được và nhất quán.
